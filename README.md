@@ -4,8 +4,8 @@
 ## Socials:
 
 [<img alt="Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />](https://www.discord.com/Lucky_#6666)
-[<img alt="Github" style="margin-left:20px"  width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/25fe7193e0f257bcad641daa7d9af9ff778f2634/assets/github.svg" />](https://github.com/LuckiPing/)
-[<img alt="Twitter" style="margin-left:20px"   width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/dieserlucki)
+[<img alt="Github" style="padding-left:20px"  width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/25fe7193e0f257bcad641daa7d9af9ff778f2634/assets/github.svg" />](https://github.com/LuckiPing/)
+[<img alt="Twitter" style="padding-left:20px"   width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/dieserlucki)
 
 
 ### Languages and Tools:
